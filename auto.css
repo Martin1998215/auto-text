@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+}
+body {
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ color: black;
+ font-size: 22px;
+ padding: 5px 10px;
+ font-family: monospace;   
+}
+
+h3 {
+  background: #26dcff;
+  padding: 5px 20px;
+  margin: 15px 0;
+  
+}
